@@ -7,4 +7,4 @@
  
   - 사용 언어: 자바
   - 개발 환경: Eclipse IDE(2023-06)
-  - DB: MSSQL
+  - DB: MySQL
